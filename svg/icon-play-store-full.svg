@@ -1,0 +1,13 @@
+<svg width="99" height="27" viewBox="0 0 99 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 534">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M0.410426 4.20832C0.159971 4.46642 0 4.81995 0 5.22939V22.3578C0 22.8292 0.212018 23.2265 0.530033 23.4893L10.1107 13.9086L0.410426 4.20832ZM11.1512 14.9491L2.85014 23.2502L13.2634 17.0613L11.1512 14.9491ZM14.5687 16.2855L12.1917 13.9086L14.7129 11.3874L16.6331 12.5287C17.5927 13.099 17.5927 14.4882 16.6331 15.0586L14.5687 16.2855ZM11.1512 12.8681L2.28311 4L13.4077 10.6117L11.1512 12.8681Z" fill="url(#paint0_linear_8486_24082)"/>
+<text id="Download via" fill="#232224" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="9" letter-spacing="0em"><tspan x="30" y="8.6995">Download via</tspan></text>
+<text id="Google Play" fill="#232224" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="13" font-weight="bold" letter-spacing="0em"><tspan x="31" y="23.6215">Google Play</tspan></text>
+</g>
+<defs>
+<linearGradient id="paint0_linear_8486_24082" x1="14.6631" y1="6.63106" x2="1.77291" y2="19.8604" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A950C4"/>
+<stop offset="1" stop-color="#82269E"/>
+</linearGradient>
+</defs>
+</svg>
